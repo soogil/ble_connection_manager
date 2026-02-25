@@ -1,5 +1,3 @@
-# 🎯 BLE Inspector MVP Architecture Agent Guide
-
 # 🎯 BLE Inspector Lightweight Architecture Guide
 
 ## 1. 프로젝트 아키텍처 대원칙 (NO OVER-ENGINEERING)
